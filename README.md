@@ -63,4 +63,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-production-order-sql](https://github.com/latonaio/sap-production-order-sql)  
 * [sap-api-integrations-production-order-confirmation](https://github.com/latonaio/sap-api-integrations-production-order-confirmation)  
 
+### Plant Management  
 
+* [sap-api-integrations-equipment-master-events](https://github.com/latonaio/sap-api-integrations-equipment-master-events)  
+* [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
