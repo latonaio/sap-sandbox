@@ -33,6 +33,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ### Sales Management
 
 * [sap-api-integrations-business-partner-events](https://github.com/latonaio/sap-api-integrations-business-partner-events)
+* [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)  
 * [sap-api-integrations-sales-pricing-condition-record-events](https://github.com/latonaio/sap-api-integrations-sales-pricing-condition-record-events)
 * [sap-api-integrations-sales-order-events](https://github.com/latonaio/sap-api-integrations-sales-order-events)  
@@ -41,6 +42,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ### Procurement Management  
 
 * [sap-api-integrations-business-partner-events](https://github.com/latonaio/sap-api-integrations-business-partner-events)
+* [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
 * [sap-api-integrations-purchasing-info-record-reads](https://github.com/latonaio/sap-api-integrations-purchasing-info-record-reads)  
 * [sap-purchasing-info-record-sql](https://github.com/latonaio/sap-purchasing-info-record-sql)  
