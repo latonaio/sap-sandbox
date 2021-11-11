@@ -10,7 +10,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_1110.png)
+![リソース整備状況](documents/sap_sandbox_1111.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -40,6 +40,9 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-sales-pricing-condition-record-events](https://github.com/latonaio/sap-api-integrations-sales-pricing-condition-record-events)
 * [sap-api-integrations-sales-order-events](https://github.com/latonaio/sap-api-integrations-sales-order-events)  
 * [sap-api-integrations-outbound-delivery-events](https://github.com/latonaio/sap-api-integrations-outbound-delivery-events)  
+* [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)
+* [sap-api-integrations-billing-document-events](https://github.com/latonaio/sap-api-integrations-billing-document-events)  
+* [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
 
 ### Procurement Management  
 
