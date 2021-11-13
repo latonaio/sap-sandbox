@@ -17,6 +17,10 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 ### Logistics  
 
+* [sap-business-user-events](https://github.com/latonaio/sap-business-user-events)
+
+### Logistics  
+
 * [sap-api-integrations-product-master-events](https://github.com/latonaio/sap-api-integrations-product-master-events)  
 * [sap-api-integrations-product-master](https://github.com/latonaio/sap-api-integrations-product-master) 
 * [sap-product-master-sql](https://github.com/latonaio/sap-product-master-sql)  
