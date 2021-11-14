@@ -10,7 +10,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_1113.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -42,9 +42,11 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)  
 * [sap-api-integrations-sales-pricing-condition-record-events](https://github.com/latonaio/sap-api-integrations-sales-pricing-condition-record-events)
+* [sap-sales-pricing-sql](https://github.com/latonaio/sap-sales-pricing-sql)  
 * [sap-api-integrations-sales-order-events](https://github.com/latonaio/sap-api-integrations-sales-order-events)  
 * [sap-api-integrations-outbound-delivery-events](https://github.com/latonaio/sap-api-integrations-outbound-delivery-events)  
 * [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)
+* [sap-api-integrations-customer-return-events](https://github.com/latonaio/sap-api-integrations-customer-return-events)  
 * [sap-api-integrations-billing-document-events](https://github.com/latonaio/sap-api-integrations-billing-document-events)  
 * [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
 
@@ -53,11 +55,13 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-business-partner-events](https://github.com/latonaio/sap-api-integrations-business-partner-events)
 * [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
+* [sap-purchasing-source-list-sql](https://github.com/latonaio/sap-purchasing-source-list-sql)  
 * [sap-api-integrations-purchasing-info-record-reads](https://github.com/latonaio/sap-api-integrations-purchasing-info-record-reads)  
 * [sap-purchasing-info-record-sql](https://github.com/latonaio/sap-purchasing-info-record-sql)  
 * [sap-api-integrations-purchase-requisition-events](https://github.com/latonaio/sap-api-integrations-purchase-requisition-events)  
 * [sap-api-integrations-purchase-order-events](https://github.com/latonaio/sap-api-integrations-purchase-order-events)  
-* [sap-purchasing-source-list-sql](https://github.com/latonaio/sap-purchasing-source-list-sql)  
+* [sap-purchase-order-sql](https://github.com/latonaio/sap-purchase-order-sql)
+* [sap-api-integrations-supplier-invoice-events](https://github.com/latonaio/sap-api-integrations-supplier-invoice-events)
 
 ### Production Management  
 
