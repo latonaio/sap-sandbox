@@ -22,7 +22,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ### Logistics  
 
 * [sap-api-integrations-product-master-events](https://github.com/latonaio/sap-api-integrations-product-master-events)  
-* [sap-api-integrations-product-master](https://github.com/latonaio/sap-api-integrations-product-master) 
+* [sap-api-integrations-product-master-read](https://github.com/latonaio/sap-api-integrations-product-master-read) 
 * [sap-product-master-sql](https://github.com/latonaio/sap-product-master-sql)  
 * [sap-api-integrations-batch-master-record-events](https://github.com/latonaio/sap-api-integrations-batch-master-record-events)  
 * [sap-batch-master-record-sql](https://github.com/latonaio/sap-batch-master-record-sql)  
