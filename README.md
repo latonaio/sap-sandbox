@@ -10,7 +10,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_1117.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -22,9 +22,10 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ### Logistics  
 
 * [sap-api-integrations-product-master-events](https://github.com/latonaio/sap-api-integrations-product-master-events)  
-* [sap-api-integrations-product-master-read](https://github.com/latonaio/sap-api-integrations-product-master-read) 
+* [sap-api-integrations-product-master-reads](https://github.com/latonaio/sap-api-integrations-product-master-reads) 
 * [sap-product-master-sql](https://github.com/latonaio/sap-product-master-sql)  
 * [sap-api-integrations-batch-master-record-events](https://github.com/latonaio/sap-api-integrations-batch-master-record-events)  
+* [sap-api-integrations-batch-master-record-reads](https://github.com/latonaio/sap-api-integrations-batch-master-record-reads)
 * [sap-batch-master-record-sql](https://github.com/latonaio/sap-batch-master-record-sql)  
 
 ### Inventory Management  
