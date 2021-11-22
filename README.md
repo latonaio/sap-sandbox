@@ -97,4 +97,4 @@ SAP-SANDBOX は、REDEDGE との統合に関連して、以下の機能を提供
 * Nascently Styled API Formats and SQL Sheets（新生にスタイルされた APIフォーマット と SQLシート）  
 * Latest! Always Latest!（リソースは常に最新の状態です！）  
 
-![rededge_sap](documents/rededge_sap.png)  
+![rededge_sap](documents/rededge_sap_1122.png)  
