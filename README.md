@@ -55,7 +55,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ### Procurement Management  
 
 * [sap-api-integrations-business-partner-events](https://github.com/latonaio/sap-api-integrations-business-partner-events)
-* sap-api-integrations-business-partner-reads-supplier  
+* [sap-api-integrations-business-partner-reads-supplier](https://github.com/latonaio/sap-api-integrations-business-partner-reads-supplier)  
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
 * [sap-purchasing-source-list-sql](https://github.com/latonaio/sap-purchasing-source-list-sql)  
 * [sap-api-integrations-purchasing-info-record-events](https://github.com/latonaio/sap-api-integrations-purchasing-info-record-events)
@@ -86,3 +86,15 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-api-integrations-equipment-master-events](https://github.com/latonaio/sap-api-integrations-equipment-master-events)  
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
+
+## Rededgeとの依存関係  
+以下の図は、sap-sandbox と [rededge](https://github.com/latonaio/rededge) との依存関係を示した図です。  
+SAP-SANDBOX は、REDEDGE との統合に関連して、以下の機能を提供します。  
+
+* Full Coverage of SAP S4HANA APIs（SAP S4HANA API の完全なカバレッジ）    
+* Frexibly Mixed Golang / Kubernetes Runtime for API Callers（API Caller のための フレキシブルに組み合わせ可能な Golang / Kubernetes ランタイム）   
+* Fragmented and Microservicized Parts（細かく刻まれマイクロサービス化された部品）  
+* Nascently Styled API Formats and SQL Sheets（新生にスタイルされた APIフォーマット と SQLシート）  
+* Latest! Always Latest!（リソースは常に最新の状態です！）  
+
+![rededge_sap](documents/rededge_sap.drawio.png)  
