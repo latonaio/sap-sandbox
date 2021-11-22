@@ -10,7 +10,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.png)
+![リソース整備状況](documents/sap_sandbox_1122.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -65,6 +65,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-purchase-order-events](https://github.com/latonaio/sap-api-integrations-purchase-order-events)  
 * [sap-purchase-order-sql](https://github.com/latonaio/sap-purchase-order-sql)
 * [sap-api-integrations-supplier-invoice-events](https://github.com/latonaio/sap-api-integrations-supplier-invoice-events)
+* [sap-supplier-invoice-sql](https://github.com/latonaio/sap-supplier-invoice-sql)
 
 ### Production Management  
 
@@ -97,4 +98,4 @@ SAP-SANDBOX は、REDEDGE との統合に関連して、以下の機能を提供
 * Nascently Styled API Formats and SQL Sheets（新生にスタイルされた APIフォーマット と SQLシート）  
 * Latest! Always Latest!（リソースは常に最新の状態です！）  
 
-![rededge_sap](documents/sap_sandbox_1122.png)  
+![rededge_sap](documents/rededge_sap.png)  
