@@ -89,7 +89,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
 
 ## Rededgeとの依存関係  
-以下の図は、sap-sandbox と [rededge](https://github.com/latonaio/rededge) との依存関係を示した図です。  
+以下の図は、sap-sandbox と [rededge](https://github.com/latonaio/rededge) との依存関係を示した図です。（sap-sandbox は マイクロサービス であり、rededge と独立して動作します。rededge と組み合わせないと機能しないということではありません）    
 SAP-SANDBOX は、REDEDGE との統合に関連して、以下の機能を提供します。  
 
 * Full Coverage of SAP S4HANA APIs（SAP S4HANA API の完全なカバレッジ）    
@@ -98,4 +98,4 @@ SAP-SANDBOX は、REDEDGE との統合に関連して、以下の機能を提供
 * Nascently Styled API Formats and SQL Sheets（新生にスタイルされた APIフォーマット と SQLシート）  
 * Latest! Always Latest!（リソースは常に最新の状態です！）  
 
-![rededge_sap](documents/rededge_sap.png)  
+![rededge_sap](documents/rededge_sap.drawio.png)  
