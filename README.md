@@ -113,7 +113,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-production-routing-reads](https://github.com/latonaio/sap-api-integrations-production-routing-reads) 
 * [sap-api-integrations-production-order-reads](https://github.com/latonaio/sap-api-integrations-production-order-reads)  
 
-#### CREATS
+##### CREATES
 
 * [sap-api-integrations-production-order-confirmation](https://github.com/latonaio/sap-api-integrations-production-order-confirmation) 
 
@@ -134,6 +134,19 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL 
 
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
+
+## sap-sandbox における SAP領域・機能 の選択基準
+sap-sandbox におけるSAP領域・機能は、SAP S4HANA のあらゆる領域・機能のうち、世界中の企業で繰り返し利用される、利用頻度の高いものと判断されるものが、選択されています。  
+
+## SQL 作成の基準
+sap-sandbox において ある機能 に対して SQL を 作成するかどうか は、次の基準に基づいて判断されています。  
+
+* 外部システム側で当該機能の必要十分なデータ量を保持する要求が、平均的にあるかどうか  
+* 当該機能の平均的要求に、外部システムから帳票を出力することが含まれるかどうか  
+
+上記基準のいずれかに当てはまれば、sap-sandbox において SQL が作成され、該当するレポジトリが存在します。  
+なお、SAP API Business Hub にて READ API が公開されていない機能については、sap-sandbox において SQL は作成されません。  
+
 
 ## Rededgeとの依存関係  
 以下の図は、sap-sandbox と [rededge](https://github.com/latonaio/rededge) との依存関係を示した図です。（sap-sandbox は マイクロサービス であり、rededge と独立して動作します。rededge と組み合わせないと機能しないということではありません）    
