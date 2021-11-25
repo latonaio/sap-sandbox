@@ -90,6 +90,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-purchasing-info-record-reads](https://github.com/latonaio/sap-api-integrations-purchasing-info-record-reads)  
 * [sap-api-integrations-purchase-requisition-reads](https://github.com/latonaio/sap-api-integrations-purchase-requisition-reads)
 * [sap-api-integrations-purchase-order-reads](https://github.com/latonaio/sap-api-integrations-purchase-order-reads)  
+* [sap-api-integrations-supplier-invoice-reads](https://github.com/latonaio/sap-api-integrations-supplier-invoice-reads)
 
 ##### SQL  
 
