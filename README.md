@@ -97,7 +97,8 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
 * [sap-purchasing-source-list-sql](https://github.com/latonaio/sap-purchasing-source-list-sql)  
-* [sap-purchasing-info-record-sql](https://github.com/latonaio/sap-purchasing-info-record-sql)  
+* [sap-purchasing-info-record-sql](https://github.com/latonaio/sap-purchasing-info-record-sql) 
+* [sap-purchase-requisition-sql](https://github.com/latonaio/sap-purchase-requisition-sql) 
 * [sap-purchase-order-sql](https://github.com/latonaio/sap-purchase-order-sql)
 * [sap-supplier-invoice-sql](https://github.com/latonaio/sap-supplier-invoice-sql)
 
