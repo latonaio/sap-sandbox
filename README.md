@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_1124.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -69,6 +69,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### READS
 
 * [sap-api-integrations-business-partner-reads-customer](https://github.com/latonaio/sap-api-integrations-business-partner-reads-customer)  
+* [sap-api-integrations-sales-order-reads](https://github.com/latonaio/sap-api-integrations-sales-order-reads)
 * [sap-api-integrations-outbound-delivery-reads](https://github.com/latonaio/sap-api-integrations-outbound-delivery-reads)  
 * [sap-api-integrations-billing-document-reads](https://github.com/latonaio/sap-api-integrations-billing-document-reads)
 
@@ -76,6 +77,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)  
 * [sap-sales-pricing-sql](https://github.com/latonaio/sap-sales-pricing-sql)  
+* [sap-sales-order-sql](https://github.com/latonaio/sap-sales-order-sql)  
 * [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)  
 * [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
 
