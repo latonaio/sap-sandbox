@@ -81,6 +81,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)  
 * [sap-sales-pricing-sql](https://github.com/latonaio/sap-sales-pricing-sql)  
+* [sap-sales-inquiry-sql](https://github.com/latonaio/sap-sales-inquiry-sql)
 * [sap-sales-order-sql](https://github.com/latonaio/sap-sales-order-sql)  
 * [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)  
 * [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
