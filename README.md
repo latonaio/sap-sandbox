@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.png)
+![リソース整備状況](documents/sap_sandbox_1219.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -139,7 +139,8 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-work-center-reads](https://github.com/latonaio/sap-api-integrations-work-center-reads)
 * [sap-api-integrations-production-routing-reads](https://github.com/latonaio/sap-api-integrations-production-routing-reads)   
 * [sap-api-integrations-planned-independent-requirement-reads](https://github.com/latonaio/sap-api-integrations-planned-independent-requirement-reads)  
-* [sap-api-integrations-material-planning-data-reads](https://github.com/latonaio/sap-api-integrations-material-planning-data-reads)  
+* [sap-api-integrations-material-planning-data-reads](https://github.com/latonaio/sap-api-integrations-material-planning-data-reads) 
+* [sap-api-integrations-planned-order-reads](https://github.com/latonaio/sap-api-integrations-planned-order-reads)
 * [sap-api-integrations-production-order-reads](https://github.com/latonaio/sap-api-integrations-production-order-reads)  
 
 ##### CREATES
@@ -169,6 +170,10 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
 
 ### Customer Service
+##### EVENTS
+
+* [sap-api-integrations-service-order-events](https://github.com/latonaio/sap-api-integrations-service-order-events)
+
 ##### READS
 
 * [sap-api-integrations-service-order-reads](https://github.com/latonaio/sap-api-integrations-service-order-reads)
