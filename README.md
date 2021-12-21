@@ -29,6 +29,10 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
 
+##### SQL
+
+* [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
+
 ### Logistics  
 ##### EVENTS
 
