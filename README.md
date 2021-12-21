@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_1221.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -137,6 +137,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-purchase-requisition-sql](https://github.com/latonaio/sap-purchase-requisition-sql) 
 * [sap-purchase-order-sql](https://github.com/latonaio/sap-purchase-order-sql)
 * [sap-purchase-contract-sql](https://github.com/latonaio/sap-purchase-contract-sql)
+* [sap-purchase-scheduling-agreement-sql](https://github.com/latonaio/sap-purchase-scheduling-agreement-sql)
 * [sap-supplier-invoice-sql](https://github.com/latonaio/sap-supplier-invoice-sql)
 
 ### Production Management  
