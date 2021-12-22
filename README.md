@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.png)
+![リソース整備状況](documents/sap_sandbox_1222.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -168,6 +168,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-production-routing-sql](https://github.com/latonaio/sap-production-routing-sql)  
 * [sap-material-planning-data-sql](https://github.com/latonaio/sap-material-planning-data-sql)  
 * [sap-planned-independent-requirement-sql](https://github.com/latonaio/sap-planned-independent-requirement-sql)  
+* [sap-planned-order-sql](https://github.com/latonaio/sap-planned-order-sql)
 * [sap-production-order-sql](https://github.com/latonaio/sap-production-order-sql)   
 
 ### Plant Management  
