@@ -74,7 +74,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### EVENTS
 
 * [sap-api-integrations-business-partner-events](https://github.com/latonaio/sap-api-integrations-business-partner-events)
-* [sap-api-integrations-sales-pricing-condition-record-events](https://github.com/latonaio/sap-api-integrations-sales-pricing-condition-record-events)
+* [sap-api-integrations-sales-pricing-events](https://github.com/latonaio/sap-api-integrations-sales-pricing-events)
 * [sap-api-integrations-sales-inquiry-events](https://github.com/latonaio/sap-api-integrations-sales-inquiry-events)
 * [sap-api-integrations-sales-quotation-events](https://github.com/latonaio/sap-api-integrations-sales-quotation-events)
 * [sap-api-integrations-sales-order-events](https://github.com/latonaio/sap-api-integrations-sales-order-events)  
