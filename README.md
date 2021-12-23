@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_list.drawio.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -23,17 +23,19 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### EVENTS
 
 * [sap-business-user-events](https://github.com/latonaio/sap-business-user-events)
-* [sap-api-integrations-characteristic-events](https://bitbucket.org/latonaio/sap-api-integrations-characteristic-events/src/master/)
+* [sap-api-integrations-classification-events](https://github.com/latonaio/sap-api-integrations-classification-events)
+* [sap-api-integrations-characteristic-events](https://github.com/latonaio/sap-api-integrations-characteristic-reads)  
 * [sap-api-integrations-business-partner-events](https://github.com/latonaio/sap-api-integrations-business-partner-events)
 
 ##### READS
 
+* [sap-api-integrations-classification-reads](https://github.com/latonaio/sap-api-integrations-classification-reads)
 * [sap-api-integrations-characteristic-reads](https://github.com/latonaio/sap-api-integrations-characteristic-reads)
 * [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
 ##### SQL
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
-* [sap-characteristic-sql](https://bitbucket.org/latonaio/sap-characteristic-sql/src/master/)
+* [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
 
 ### Logistics  
 ##### EVENTS
@@ -44,7 +46,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### READS
 
 * [sap-api-integrations-product-master-reads](https://github.com/latonaio/sap-api-integrations-product-master-reads) 
-* [sap-api-integrations-product-master-classification-reads](https://bitbucket.org/latonaio/sap-api-integrations-product-master-classification-reads/src/master/) 
+* [sap-api-integrations-product-master-classification-reads](https://github.com/latonaio/sap-api-integrations-product-master-classification-reads) 
 * [sap-api-integrations-batch-master-record-reads](https://github.com/latonaio/sap-api-integrations-batch-master-record-reads)
 
 ##### SQL
