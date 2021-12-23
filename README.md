@@ -23,16 +23,17 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### EVENTS
 
 * [sap-business-user-events](https://github.com/latonaio/sap-business-user-events)
+* [sap-api-integrations-characteristic-events](https://bitbucket.org/latonaio/sap-api-integrations-characteristic-events/src/master/)
 * [sap-api-integrations-business-partner-events](https://github.com/latonaio/sap-api-integrations-business-partner-events)
 
 ##### READS
 
-* [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
 * [sap-api-integrations-characteristic-reads](https://github.com/latonaio/sap-api-integrations-characteristic-reads)
-
+* [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
 ##### SQL
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
+* [sap-characteristic-sql](https://bitbucket.org/latonaio/sap-characteristic-sql/src/master/)
 
 ### Logistics  
 ##### EVENTS
