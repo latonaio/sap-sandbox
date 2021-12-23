@@ -87,7 +87,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### READS
 
 * [sap-api-integrations-business-partner-reads-customer](https://github.com/latonaio/sap-api-integrations-business-partner-reads-customer)  
-* [sap-api-integrations-sales-pricing-condition-reads](https://github.com/latonaio/sap-api-integrations-sales-pricing-condition-reads)
+* [sap-api-integrations-sales-pricing-reads](https://github.com/latonaio/sap-api-integrations-sales-pricing-reads)
 * [sap-api-integrations-sales-inquiry-reads](https://github.com/latonaio/sap-api-integrations-sales-inquiry-reads)
 * [sap-api-integrations-sales-quotation-reads](https://github.com/latonaio/sap-api-integrations-sales-quotation-reads)
 * [sap-api-integrations-sales-order-reads](https://github.com/latonaio/sap-api-integrations-sales-order-reads)
