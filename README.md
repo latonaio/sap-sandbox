@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_1224.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -184,6 +184,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-api-integrations-equipment-master-reads](https://github.com/latonaio/sap-api-integrations-equipment-master-reads)
 * [sap-api-integrations-maintenance-order-reads](https://github.com/latonaio/sap-api-integrations-maintenance-order-reads)
+* [sap-api-integrations-maintenance-notification-reads](https://github.com/latonaio/sap-api-integrations-maintenance-notification-reads)
 
 ##### SQL 
 
