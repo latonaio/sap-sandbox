@@ -208,6 +208,8 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL
 
 * [sap-service-order-sql](https://github.com/latonaio/sap-service-order-sql)
+* [sap-service-confirmation-sql](https://github.com/latonaio/sap-service-confirmation-sql)
+
 
 ## sap-sandbox における SAP領域・機能 の選択基準
 sap-sandbox におけるSAP領域・機能は、SAP S4HANA のあらゆる領域・機能のうち、世界中の企業で繰り返し利用される、利用頻度の高いものと判断されるものが、選択されています。  
