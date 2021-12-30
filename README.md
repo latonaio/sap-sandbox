@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox1230.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -35,8 +35,10 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
-* [sap-classification-sql](https://github.com/latonaio/sap-classification-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
+* [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
+* [sap-bank-sql](https://github.com/latonaio/sap-bank-sql)
+* [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
 
 ### Logistics  
 ##### EVENTS
