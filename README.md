@@ -198,7 +198,11 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL 
 
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
+* [sap-maintenance-plan-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
+* [sap-maintenance-item-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
 * [sap-maintenance-order-sql](https://github.com/latonaio/sap-maintenance-order-sql)
+* [sap-maintenance-order-confirmation-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
+* [sap-maintenance-notification-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
 
 ### Customer Service
 ##### EVENTS
