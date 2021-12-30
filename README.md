@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox1230.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -35,7 +35,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
-* [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
+* [sap-classification-sql](https://github.com/latonaio/sap-classification-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
 * [sap-bank-master-sql](https://github.com/latonaio/sap-bank-master-sql)
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
@@ -83,6 +83,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### EVENTS
 
 * [sap-api-integrations-business-partner-events](https://github.com/latonaio/sap-api-integrations-business-partner-events)
+* [sap-api-integrations-customer-material-events](https://github.com/latonaio/sap-api-integrations-customer-material-events)
 * [sap-api-integrations-sales-pricing-events](https://github.com/latonaio/sap-api-integrations-sales-pricing-events)
 * [sap-api-integrations-sales-inquiry-events](https://github.com/latonaio/sap-api-integrations-sales-inquiry-events)
 * [sap-api-integrations-sales-quotation-events](https://github.com/latonaio/sap-api-integrations-sales-quotation-events)
@@ -96,6 +97,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### READS
 
 * [sap-api-integrations-business-partner-reads-customer](https://github.com/latonaio/sap-api-integrations-business-partner-reads-customer)  
+* [sap-api-integrations-customer-material-reads](https://github.com/latonaio/sap-api-integrations-customer-material-reads)  
 * [sap-api-integrations-sales-pricing-reads](https://github.com/latonaio/sap-api-integrations-sales-pricing-reads)
 * [sap-api-integrations-sales-inquiry-reads](https://github.com/latonaio/sap-api-integrations-sales-inquiry-reads)
 * [sap-api-integrations-sales-quotation-reads](https://github.com/latonaio/sap-api-integrations-sales-quotation-reads)
