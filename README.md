@@ -37,7 +37,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
-* [sap-bank-sql](https://github.com/latonaio/sap-bank-sql)
+* [sap-bank-master-sql](https://github.com/latonaio/sap-bank-master-sql)
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
 
 ### Logistics  
