@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_1230.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -35,7 +35,6 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
 ##### SQL
 
-* [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
 * [sap-classification-sql](https://github.com/latonaio/sap-classification-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
 * [sap-bank-master-sql](https://github.com/latonaio/sap-bank-master-sql)
@@ -111,6 +110,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)  
+* [sap-credit-management-sql](https://github.com/latonaio/sap-credit-management-sql)
 * [sap-customer-material-sql](https://github.com/latonaio/sap-customer-material-sql)  
 * [sap-sales-pricing-sql](https://github.com/latonaio/sap-sales-pricing-sql)  
 * [sap-sales-inquiry-sql](https://github.com/latonaio/sap-sales-inquiry-sql)
@@ -175,6 +175,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL 
 
 * [sap-bill-of-material-sql](https://github.com/latonaio/sap-bill-of-material-sql)  
+* [sap-bill-of-material-where-used-list-sql](https://github.com/latonaio/sap-bill-of-material-sql)  
 * [sap-work-center-sql](https://github.com/latonaio/sap-work-center-sql)  
 * [sap-production-routing-sql](https://github.com/latonaio/sap-production-routing-sql)  
 * [sap-material-planning-data-sql](https://github.com/latonaio/sap-material-planning-data-sql)  
@@ -201,6 +202,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL 
 
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
+* [sap-equipment-hierarchy-sql](https://github.com/latonaio/sap-equipment-hierarchy-sql)  
 * [sap-maintenance-plan-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
 * [sap-maintenance-item-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
 * [sap-maintenance-order-sql](https://github.com/latonaio/sap-maintenance-order-sql)
