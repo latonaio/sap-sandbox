@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_1231.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -48,6 +48,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 ##### READS
 
+* [sap-api-integrations-product-group-reads](https://github.com/latonaio/sap-api-integrations-product-group-reads)
 * [sap-api-integrations-product-master-reads](https://github.com/latonaio/sap-api-integrations-product-master-reads) 
 * [sap-api-integrations-product-master-class-reads](https://github.com/latonaio/sap-api-integrations-product-master-class-reads) 
 * [sap-api-integrations-batch-master-record-reads](https://github.com/latonaio/sap-api-integrations-batch-master-record-reads)
@@ -97,6 +98,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### READS
 
 * [sap-api-integrations-business-partner-reads-customer](https://github.com/latonaio/sap-api-integrations-business-partner-reads-customer)  
+* [sap-api-integrations-credit-management-master-reads](https://github.com/latonaio/sap-api-integrations-credit-management-master-reads)  
 * [sap-api-integrations-customer-material-reads](https://github.com/latonaio/sap-api-integrations-customer-material-reads)  
 * [sap-api-integrations-sales-pricing-reads](https://github.com/latonaio/sap-api-integrations-sales-pricing-reads)
 * [sap-api-integrations-sales-inquiry-reads](https://github.com/latonaio/sap-api-integrations-sales-inquiry-reads)
@@ -110,7 +112,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)  
-* [sap-credit-management-sql](https://github.com/latonaio/sap-credit-management-sql)
+* [sap-credit-management-master-sql](https://github.com/latonaio/sap-credit-management-master-sql)
 * [sap-customer-material-sql](https://github.com/latonaio/sap-customer-material-sql)  
 * [sap-sales-pricing-sql](https://github.com/latonaio/sap-sales-pricing-sql)  
 * [sap-sales-inquiry-sql](https://github.com/latonaio/sap-sales-inquiry-sql)
@@ -164,6 +166,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### READS
 
 * [sap-api-integrations-bill-of-material-reads](https://github.com/latonaio/sap-api-integrations-bill-of-material-reads)  
+* [sap-api-integrations-bill-of-material-where-used-list-reads](https://github.com/latonaio/sap-api-integrations-bill-of-material-where-used-list-reads)  
 * [sap-api-integrations-work-center-reads](https://github.com/latonaio/sap-api-integrations-work-center-reads)
 * [sap-api-integrations-production-routing-reads](https://github.com/latonaio/sap-api-integrations-production-routing-reads)   
 * [sap-api-integrations-planned-independent-requirement-reads](https://github.com/latonaio/sap-api-integrations-planned-independent-requirement-reads)  
