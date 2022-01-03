@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_list.drawio.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -33,6 +33,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-characteristic-reads](https://github.com/latonaio/sap-api-integrations-characteristic-reads)
 * [sap-api-integrations-bank-master-reads](https://github.com/latonaio/sap-api-integrations-bank-master-reads)
 * [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
+
 ##### SQL
 
 * [sap-classification-sql](https://github.com/latonaio/sap-classification-sql)
@@ -209,7 +210,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
 * [sap-equipment-hierarchy-sql](https://github.com/latonaio/sap-equipment-hierarchy-sql)  
 * [sap-maintenance-plan-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
-* [sap-maintenance-item-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
+* [sap-maintenance-item-sql](https://github.com/latonaio/sap-maintenance-item-sql)
 * [sap-maintenance-order-sql](https://github.com/latonaio/sap-maintenance-order-sql)
 * [sap-maintenance-order-confirmation-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
 * [sap-maintenance-notification-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
