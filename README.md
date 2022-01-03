@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.png)
+![リソース整備状況](documents/sap_list.drawio.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -80,6 +80,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-reservation-document-sql](https://github.com/latonaio/sap-reservation-document-sql)  
 * [sap-inbound-delivery-sql](https://github.com/latonaio/sap-inbound-delivery-sql)
 * [sap-material-document-sql](https://github.com/latonaio/sap-material-document-sql)
+* [sap-physical-inventory-document-sql](https://github.com/latonaio/sap-physical-inventory-document-sql)
 
 ### Sales Management
 ##### EVENTS
