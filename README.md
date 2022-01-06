@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.png)
+![リソース整備状況](documents/sap_sandbox_0106.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -190,24 +190,27 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-production-order-sql](https://github.com/latonaio/sap-production-order-sql)   
 * [sap-production-order-confirmation-sql](https://github.com/latonaio/sap-production-order-confirmation-sql)   
 
-### Plant Management  
+### Plant Maintenance  
 ##### EVENTS
 
+* [sap-api-integrations-functional-location-events](https://github.com/latonaio/sap-api-integrations-functional-location-events)
 * [sap-api-integrations-equipment-master-events](https://github.com/latonaio/sap-api-integrations-equipment-master-events) 
+* [sap-api-integrations-maintenance-order-confirmation-events](https://github.com/latonaio/sap-api-integrations-maintenance-order-confirmation-events)
 * [sap-api-integrations-measuring-point-events](https://github.com/latonaio/sap-api-integrations-measuring-point-events)
 * [sap-api-integrations-measurement-document-events](https://github.com/latonaio/sap-api-integrations-measurement-document-events)
-* [sap-api-integrations-maintenance-order-confirmation-events](https://github.com/latonaio/sap-api-integrations-maintenance-order-confirmation-events)
 
 ##### READS
 
+* [sap-api-integrations-functional-location-reads](https://github.com/latonaio/sap-api-integrations-functional-location-reads)
 * [sap-api-integrations-equipment-master-reads](https://github.com/latonaio/sap-api-integrations-equipment-master-reads)
 * [sap-api-integrations-maintenance-plan-reads](https://github.com/latonaio/sap-api-integrations-maintenance-plan-reads)
 * [sap-api-integrations-maintenance-item-reads](https://github.com/latonaio/sap-api-integrations-maintenance-item-reads)
-* [sap-api-integrations-measuring-point-reads](https://github.com/latonaio/sap-api-integrations-measuring-point-reads)
-* [sap-api-integrations-measurement-document-reads](https://github.com/latonaio/sap-api-integrations-measurement-document-reads)
+* [sap-api-integrations-maintenance-notification-reads](https://github.com/latonaio/sap-api-integrations-maintenance-notification-reads)
 * [sap-api-integrations-maintenance-order-reads](https://github.com/latonaio/sap-api-integrations-maintenance-order-reads)
 * [sap-api-integrations-maintenance-order-confirmation-reads](https://github.com/latonaio/sap-api-integrations-maintenance-order-confirmation-reads)
-* [sap-api-integrations-maintenance-notification-reads](https://github.com/latonaio/sap-api-integrations-maintenance-notification-reads)
+* [sap-api-integrations-measuring-point-reads](https://github.com/latonaio/sap-api-integrations-measuring-point-reads)
+* [sap-api-integrations-measurement-document-reads](https://github.com/latonaio/sap-api-integrations-measurement-document-reads)
+
 
 ##### SQL 
 
