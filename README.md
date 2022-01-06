@@ -173,10 +173,10 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-work-center-reads](https://github.com/latonaio/sap-api-integrations-work-center-reads)
 * [sap-api-integrations-production-routing-reads](https://github.com/latonaio/sap-api-integrations-production-routing-reads)   
 * [sap-api-integrations-planned-independent-requirement-reads](https://github.com/latonaio/sap-api-integrations-planned-independent-requirement-reads)  
-* [sap-api-integrations-material-planning-data-reads](https://github.com/latonaio/sap-api-integrations-material-planning-data-reads) 
-* [sap-api-integrations-planned-order-reads](https://github.com/latonaio/sap-api-integrations-planned-order-reads)
+* [sap-api-integrations-material-planning-data-reads](https://github.com/latonaio/sap-api-integrations-material-planning-data-reads)   
+* [sap-api-integrations-planned-order-reads](https://github.com/latonaio/sap-api-integrations-planned-order-reads)  
 * [sap-api-integrations-production-order-reads](https://github.com/latonaio/sap-api-integrations-production-order-reads)  
-* [sap-api-integrations-production-order-confirmation-reads](https://github.com/latonaio/sap-api-integrations-production-order-confirmation-reads) 
+* [sap-api-integrations-production-order-confirmation-reads](https://github.com/latonaio/sap-api-integrations-production-order-confirmation-reads)   
 
 ##### SQL 
 
@@ -208,6 +208,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-maintenance-notification-reads](https://github.com/latonaio/sap-api-integrations-maintenance-notification-reads)
 * [sap-api-integrations-maintenance-order-reads](https://github.com/latonaio/sap-api-integrations-maintenance-order-reads)
 * [sap-api-integrations-maintenance-order-confirmation-reads](https://github.com/latonaio/sap-api-integrations-maintenance-order-confirmation-reads)
+* [sap-api-integrations-defect-reads](https://github.com/latonaio/sap-api-integrations-defect-reads)
 * [sap-api-integrations-measuring-point-reads](https://github.com/latonaio/sap-api-integrations-measuring-point-reads)
 * [sap-api-integrations-measurement-document-reads](https://github.com/latonaio/sap-api-integrations-measurement-document-reads)
 
