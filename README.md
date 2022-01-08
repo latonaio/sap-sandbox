@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_0107.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -113,6 +113,8 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-sales-scheduling-agreement-reads](https://github.com/latonaio/sap-api-integrations-sales-scheduling-agreement-reads)
 * [sap-api-integrations-outbound-delivery-reads](https://github.com/latonaio/sap-api-integrations-outbound-delivery-reads)  
 * [sap-api-integrations-billing-document-reads](https://github.com/latonaio/sap-api-integrations-billing-document-reads)
+* [sap-api-integrations-credit-memo-request-reads](https://github.com/latonaio/sap-api-integrations-credit-memo-request-reads)
+* [sap-api-integrations-debit-memo-request-reads](https://github.com/latonaio/sap-api-integrations-debit-memo-request-reads)
 
 ##### SQL
 
@@ -199,6 +201,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-equipment-master-events](https://github.com/latonaio/sap-api-integrations-equipment-master-events) 
 * [sap-api-integrations-maintenance-bill-of-material-events](https://github.com/latonaio/sap-api-integrations-maintenance-bill-of-material-events)
 * [sap-api-integrations-maintenance-order-confirmation-events](https://github.com/latonaio/sap-api-integrations-maintenance-order-confirmation-events)
+* [sap-api-integrations-maintenance-task-list-events](https://github.com/latonaio/sap-api-integrations-maintenance-task-list-events)
 * [sap-api-integrations-measuring-point-events](https://github.com/latonaio/sap-api-integrations-measuring-point-events)
 * [sap-api-integrations-measurement-document-events](https://github.com/latonaio/sap-api-integrations-measurement-document-events)
 
@@ -213,6 +216,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-maintenance-order-reads](https://github.com/latonaio/sap-api-integrations-maintenance-order-reads)
 * [sap-api-integrations-maintenance-order-confirmation-reads](https://github.com/latonaio/sap-api-integrations-maintenance-order-confirmation-reads)
 * [sap-api-integrations-defect-reads](https://github.com/latonaio/sap-api-integrations-defect-reads)
+* [sap-api-integrations-maintenance-task-list-reads](https://github.com/latonaio/sap-api-integrations-maintenance-task-list-reads)
 * [sap-api-integrations-measuring-point-reads](https://github.com/latonaio/sap-api-integrations-measuring-point-reads)
 * [sap-api-integrations-measurement-document-reads](https://github.com/latonaio/sap-api-integrations-measurement-document-reads)
 
