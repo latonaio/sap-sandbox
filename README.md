@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.png)
+![リソース整備状況](documents/sap_sandbox_0109.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -129,6 +129,8 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-sales-scheduling-agreement-sql](https://github.com/latonaio/sap-sales-scheduling-agreement-sql)
 * [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)  
 * [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
+* [sap-credit-memo-request-sql](https://github.com/latonaio/sap-credit-memo-request-sql)
+* [sap-debit-memo-request-sql](https://github.com/latonaio/sap-debit-memo-request-sql)
 
 ### Procurement Management  
 ##### EVENTS
@@ -209,7 +211,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-api-integrations-functional-location-reads](https://github.com/latonaio/sap-api-integrations-functional-location-reads)
 * [sap-api-integrations-equipment-master-reads](https://github.com/latonaio/sap-api-integrations-equipment-master-reads)
-* [sap-api-integrations-maintenance-bill-of-material-events](https://github.com/latonaio/sap-api-integrations-maintenance-bill-of-material-events)
+* [sap-api-integrations-maintenance-bill-of-material-reads](https://github.com/latonaio/sap-api-integrations-maintenance-bill-of-material-reads)
 * [sap-api-integrations-maintenance-plan-reads](https://github.com/latonaio/sap-api-integrations-maintenance-plan-reads)
 * [sap-api-integrations-maintenance-item-reads](https://github.com/latonaio/sap-api-integrations-maintenance-item-reads)
 * [sap-api-integrations-maintenance-notification-reads](https://github.com/latonaio/sap-api-integrations-maintenance-notification-reads)
@@ -223,13 +225,19 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 ##### SQL 
 
+* [sap-functional-location-sql](https://github.com/latonaio/sap-functional-location-sql)
 * [sap-equipment-master-sql](https://github.com/latonaio/sap-equipment-master-sql)  
 * [sap-equipment-hierarchy-sql](https://github.com/latonaio/sap-equipment-hierarchy-sql)  
+* [sap-maintenance-bill-of-material-sql](https://github.com/latonaio/sap-maintenance-bill-of-material-sql)
 * [sap-maintenance-plan-sql](https://github.com/latonaio/sap-maintenance-plan-sql)
 * [sap-maintenance-item-sql](https://github.com/latonaio/sap-maintenance-item-sql)
+* [sap-maintenance-notification-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
 * [sap-maintenance-order-sql](https://github.com/latonaio/sap-maintenance-order-sql)
 * [sap-maintenance-order-confirmation-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
-* [sap-maintenance-notification-sql](https://github.com/latonaio/sap-maintenance-order-confirmation-sql)
+* [sap-defect-sql](https://github.com/latonaio/sap-defect-sql)
+* [sap-maintenance-task-list-sql](https://github.com/latonaio/sap-maintenance-task-list-sql)
+* [sap-measuring-point-sql](https://github.com/latonaio/sap-measuring-point-sql)
+* [sap-measurement-document-sql](https://github.com/latonaio/sap-measurement-document-sql)
 
 ### Customer Service
 ##### EVENTS
