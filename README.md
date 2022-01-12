@@ -202,6 +202,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-functional-location-events](https://github.com/latonaio/sap-api-integrations-functional-location-events)
 * [sap-api-integrations-equipment-master-events](https://github.com/latonaio/sap-api-integrations-equipment-master-events) 
 * [sap-api-integrations-maintenance-bill-of-material-events](https://github.com/latonaio/sap-api-integrations-maintenance-bill-of-material-events)
+* [sap-api-integrations-maintenance-notification-events](https://github.com/latonaio/sap-api-integrations-maintenance-notification-events)
 * [sap-api-integrations-maintenance-order-confirmation-events](https://github.com/latonaio/sap-api-integrations-maintenance-order-confirmation-events)
 * [sap-api-integrations-maintenance-task-list-events](https://github.com/latonaio/sap-api-integrations-maintenance-task-list-events)
 * [sap-api-integrations-measuring-point-events](https://github.com/latonaio/sap-api-integrations-measuring-point-events)
