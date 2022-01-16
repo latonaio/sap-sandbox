@@ -200,6 +200,15 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-production-order-sql](https://github.com/latonaio/sap-production-order-sql)   
 * [sap-production-order-confirmation-sql](https://github.com/latonaio/sap-production-order-confirmation-sql)   
 
+### Quality Management  
+##### EVENTS
+
+* [sap-api-integrations-inspection-plan-events](https://github.com/latonaio/sap-api-integrations-inspection-plan-events)
+
+##### READS
+
+* [sap-api-integrations-inspection-plan-reads](https://github.com/latonaio/sap-api-integrations-inspection-plan-reads)
+
 ### Plant Maintenance  
 ##### EVENTS
 
