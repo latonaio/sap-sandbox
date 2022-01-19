@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_0116.png)
+![リソース整備状況](documents/sap_sandbox_0119.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -199,6 +199,20 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-planned-order-sql](https://github.com/latonaio/sap-planned-order-sql)
 * [sap-production-order-sql](https://github.com/latonaio/sap-production-order-sql)   
 * [sap-production-order-confirmation-sql](https://github.com/latonaio/sap-production-order-confirmation-sql)   
+
+### Process Management  
+##### EVENTS
+
+* [sap-api-integrations-process-order-events](https://github.com/latonaio/sap-api-integrations-process-order-events)
+
+##### READS
+
+* [sap-api-integrations-master-recipe-reads](https://github.com/latonaio/sap-api-integrations-master-recipe-reads)
+* [sap-api-integrations-process-order-reads](https://github.com/latonaio/sap-api-integrations-process-order-reads)
+
+##### SQL
+
+* [sap-master-recipe-sql](https://github.com/latonaio/sap-master-recipe-sql)
 
 ### Quality Management  
 ##### EVENTS
