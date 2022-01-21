@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox_0119.png)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -115,10 +115,16 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-sales-order-reads](https://github.com/latonaio/sap-api-integrations-sales-order-reads)
 * [sap-api-integrations-sales-contract-reads](https://github.com/latonaio/sap-api-integrations-sales-contract-reads)
 * [sap-api-integrations-sales-scheduling-agreement-reads](https://github.com/latonaio/sap-api-integrations-sales-scheduling-agreement-reads)
-* [sap-api-integrations-outbound-delivery-reads](https://github.com/latonaio/sap-api-integrations-outbound-delivery-reads)  
+* [sap-api-integrations-outbound-delivery-reads](https://github.com/latonaio/sap-api-integrations-outbound-delivery-reads) 
+* [sap-api-integrations-customer-return-reads](https://github.com/latonaio/sap-api-integrations-customer-return-reads)  
 * [sap-api-integrations-billing-document-reads](https://github.com/latonaio/sap-api-integrations-billing-document-reads)
 * [sap-api-integrations-credit-memo-request-reads](https://github.com/latonaio/sap-api-integrations-credit-memo-request-reads)
 * [sap-api-integrations-debit-memo-request-reads](https://github.com/latonaio/sap-api-integrations-debit-memo-request-reads)
+
+##### CREATS
+
+* [sap-api-integrations-sales-order-creates ](https://github.com/latonaio/sap-api-integrations-sales-order-creates)  
+
 
 ##### SQL
 
@@ -209,6 +215,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-api-integrations-master-recipe-reads](https://github.com/latonaio/sap-api-integrations-master-recipe-reads)
 * [sap-api-integrations-process-order-reads](https://github.com/latonaio/sap-api-integrations-process-order-reads)
+* [sap-api-integrations-process-order-confirmation-reads](https://github.com/latonaio/sap-api-integrations-process-order-confirmation-reads)
 
 ##### SQL
 
