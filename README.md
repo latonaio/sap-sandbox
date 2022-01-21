@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.png)
+![リソース整備状況](documents/sap_sandbox_0121.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -34,12 +34,18 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-bank-master-reads](https://github.com/latonaio/sap-api-integrations-bank-master-reads)
 * [sap-api-integrations-business-partner-reads](https://github.com/latonaio/sap-api-integrations-business-partner-reads)
 
+##### CREATES
+
+* [sap-api-integrations-business-partner-creates](https://github.com/latonaio/sap-api-integrations-business-partner-creates)
+
 ##### SQL
 
 * [sap-classification-sql](https://github.com/latonaio/sap-classification-sql)
 * [sap-characteristic-sql](https://github.com/latonaio/sap-characteristic-sql)
 * [sap-bank-master-sql](https://github.com/latonaio/sap-bank-master-sql)
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
+
+
 
 ### Logistics  
 ##### EVENTS
@@ -121,7 +127,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-credit-memo-request-reads](https://github.com/latonaio/sap-api-integrations-credit-memo-request-reads)
 * [sap-api-integrations-debit-memo-request-reads](https://github.com/latonaio/sap-api-integrations-debit-memo-request-reads)
 
-##### CREATS
+##### CREATES
 
 * [sap-api-integrations-sales-order-creates ](https://github.com/latonaio/sap-api-integrations-sales-order-creates)  
 
