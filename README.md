@@ -11,10 +11,10 @@ sap-sandbox の 「sandbox」は、Netflix 韓国ドラマ 「START-UP」 より
 sap-sandbox は、オンプレミス版である（＝クラウド版ではない）SAPS4HANA API の利用を前提としています。  
 クラウド版APIを利用する場合は、ご注意ください。  
 
-## Latona における SAP 領域・機能ごと の リソース整備状況    
+## Latona における SAP 領域s・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.pngg)
+![リソース整備状況](documents/sap_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
