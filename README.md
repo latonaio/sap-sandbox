@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.png)
+![リソース整備状況](documents/sap_sandbox_0123.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -144,6 +144,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-sales-contract-sql](https://github.com/latonaio/sap-sales-contract-sql)
 * [sap-sales-scheduling-agreement-sql](https://github.com/latonaio/sap-sales-scheduling-agreement-sql)
 * [sap-outbound-delivery-sql](https://github.com/latonaio/sap-outbound-delivery-sql)  
+* [sap-customer-return-sql](https://github.com/latonaio/sap-customer-return-sql)  
 * [sap-billing-document-sql](https://github.com/latonaio/sap-billing-document-sql)  
 * [sap-credit-memo-request-sql](https://github.com/latonaio/sap-credit-memo-request-sql)
 * [sap-debit-memo-request-sql](https://github.com/latonaio/sap-debit-memo-request-sql)
