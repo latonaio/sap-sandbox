@@ -240,7 +240,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### READS
 
 * [sap-api-integrations-inspection-plan-reads](https://github.com/latonaio/sap-api-integrations-inspection-plan-reads)
-* [sap-api-integrations-quality-info-record-reads](ttps://github.com/latonaio/sap-api-integrations-quality-info-record-reads)
+* [sap-api-integrations-quality-info-record-reads](https://github.com/latonaio/sap-api-integrations-quality-info-record-reads)
 
 ##### SQL
 
