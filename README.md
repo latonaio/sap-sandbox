@@ -235,6 +235,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL
 
 * [sap-master-recipe-sql](https://github.com/latonaio/sap-master-recipe-sql)
+* [sap-process-order-sql](https://github.com/latonaio/sap-process-order-sql)
 * [sap-process-order-confirmation-sql](https://github.com/latonaio/sap-process-order-confirmation-sql)
 
 ### Quality Management  
@@ -250,6 +251,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### SQL
 
 * [sap-inspection-plan-sql](https://github.com/latonaio/sap-inspection-plan-sql)
+* [sap-quality-info-record-sql](https://github.com/latonaio/sap-quality-info-record-sql)
 
 ### Plant Maintenance  
 ##### EVENTS
