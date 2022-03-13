@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap_sandbox.drawio.png)
+![リソース整備状況](documents/sap-sandbox.drawio.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -93,6 +93,8 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-inbound-delivery-sql](https://github.com/latonaio/sap-inbound-delivery-sql)
 * [sap-material-document-sql](https://github.com/latonaio/sap-material-document-sql)
 * [sap-physical-inventory-document-sql](https://github.com/latonaio/sap-physical-inventory-document-sql)
+* [sap-warehouse-resource-sql](https://github.com/latonaio/sap-warehouse-resource-sql)
+
 
 ### Sales Management
 ##### EVENTS
@@ -285,6 +287,8 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-api-integrations-functional-location-creates](https://github.com/latonaio/sap-api-integrations-functional-location-creates)
 * [sap-api-integrations-equipment-master-creates](https://github.com/latonaio/sap-api-integrations-equipment-master-creates)
+* [sap-api-integrations-maintenance-plan-creats](https://github.com/latonaio/sap-api-integrations-maintenance-plan-creates)
+* [sap-api-integrations-maintenance-item-creates](https://github.com/latonaio/sap-api-integrations-maintenance-item-creates)
 * [sap-api-integrations-maintenance-notification-creates](https://github.com/latonaio/sap-api-integrations-maintenance-notification-creates)
 * [sap-api-integrations-maintenance-order-confirmation-creates](https://github.com/latonaio/sap-api-integrations-maintenance-order-confirmation-creates)
 
