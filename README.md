@@ -85,6 +85,11 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-material-document-reads](https://github.com/latonaio/sap-api-integrations-material-document-reads)  
 * [sap-api-integrations-physical-inventory-document-reads](https://github.com/latonaio/sap-api-integrations-physical-inventory-document-reads)  
 * [sap-api-integrations-warehouse-resource-reads](https://github.com/latonaio/sap-api-integrations-warehouse-resource-reads)  
+* [sap-api-integrations-warehouse-available-stock-reads](https://github.com/latonaio/sap-api-integrations-warehouse-available-stock-reads)  
+
+##### SQL
+
+* [sap-api-integrations-warehouse-available-stock-reads](https://github.com/latonaio/sap-api-integrations-warehouse-available-stock-reads)  
 
 ##### SQL
 
@@ -94,6 +99,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-material-document-sql](https://github.com/latonaio/sap-material-document-sql)
 * [sap-physical-inventory-document-sql](https://github.com/latonaio/sap-physical-inventory-document-sql)
 * [sap-warehouse-resource-sql](https://github.com/latonaio/sap-warehouse-resource-sql)
+* [sap-warehouse-available-stock-sql](https://github.com/latonaio/sap-warehouse-available-stock-sql)  
 
 
 ### Sales Management
@@ -326,7 +332,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 
 ## sap-sandbox における SAP領域・機能 の選択基準
-sap-sandbox におけるSAP領域・機能は、SAP S4HANA のあらゆる領域・機能のうち、世界中の企業で繰り返し利用される、利用頻度の高いものと判断されるものが、選択されています。  
+sap-sandbox におけるSAP領域・機能は、SAP S4HANA のあらゆる領域・機能のうち、世界中の企業で繰り返し利用され、利用頻度が高いと判断されるものが、選択されています。  
 
 ## SQL 作成の基準
 sap-sandbox において ある機能 に対して SQL を 作成するかどうか は、次の基準に基づいて判断されています。  
