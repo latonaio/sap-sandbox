@@ -139,11 +139,15 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 ##### CREATES
 
+* [sap-api-integrations-business-partner-creates-customer](https://github.com/latonaio/sap-api-integrations-business-partner-creates-customer)
 * [sap-api-integrations-customer-material-creates](https://github.com/latonaio/sap-api-integrations-customer-material-creates)
 * [sap-api-integrations-sales-quotation-creates](https://github.com/latonaio/sap-api-integrations-sales-quotation-creates)  
 * [sap-api-integrations-sales-order-creates](https://github.com/latonaio/sap-api-integrations-sales-order-creates)  
+* [sap-api-integrations-sales-contract-creates](https://github.com/latonaio/sap-api-integrations-sales-contract-creates)
 * [sap-api-integrations-outbound-delivery-creates](https://github.com/latonaio/sap-api-integrations-outbound-delivery-creates) 
+* [sap-api-integrations-customer-return-creates](https://github.com/latonaio/sap-api-integrations-customer-return-creates) 
 * [sap-api-integrations-billing-document-creates](https://github.com/latonaio/sap-api-integrations-billing-document-creates) 
+* [sap-api-integrations-credit-memo-request-creates](https://github.com/latonaio/sap-api-integrations-credit-memo-request-creates)
 
 ##### SQL
 
@@ -224,6 +228,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### CREATES
 
 * [sap-api-integrations-bill-of-material-creates](https://github.com/latonaio/sap-api-integrations-bill-of-material-creates)  
+* [sap-api-integrations-process-routing-creates](https://github.com/latonaio/sap-api-integrations-process-routing-creates)
 * [sap-api-integrations-production-order-creates](https://github.com/latonaio/sap-api-integrations-production-order-creates)  
 
 ##### SQL 
@@ -248,6 +253,9 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-master-recipe-reads](https://github.com/latonaio/sap-api-integrations-master-recipe-reads)
 * [sap-api-integrations-process-order-reads](https://github.com/latonaio/sap-api-integrations-process-order-reads)
 * [sap-api-integrations-process-order-confirmation-reads](https://github.com/latonaio/sap-api-integrations-process-order-confirmation-reads)
+
+##### CREATES
+* [sap-api-integrations-process-order-creates](https://github.com/latonaio/sap-api-integrations-process-order-creates)
 
 ##### SQL
 
