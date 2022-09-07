@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap-sandbox_20220903.drawio.png)
+![リソース整備状況](documents/sap-sandbox_0907.drawio_001.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -37,6 +37,8 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### CREATES
 
 * [sap-api-integrations-business-partner-creates](https://github.com/latonaio/sap-api-integrations-business-partner-creates)
+* [sap-api-integrations-bank-master-creates](https://github.com/latonaio/sap-api-integrations-bank-master-creates)
+
 
 ##### SQL
 
@@ -68,7 +70,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-product-group-sql](https://github.com/latonaio/sap-product-group-sql)  
 * [sap-product-master-sql](https://github.com/latonaio/sap-product-master-sql)  
-* [sap-product-master-class-sql](https://github.com/latonaio/sap--product-master-class-sql) 
+* [sap-product-master-class-sql](https://github.com/latonaio/sap-product-master-class-sql) 
 * [sap-batch-master-record-sql](https://github.com/latonaio/sap-batch-master-record-sql)  
 
 ### Inventory Management  
@@ -96,7 +98,6 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-material-stock-sql](https://github.com/latonaio/sap-material-stock-sql)  
 * [sap-reservation-document-sql](https://github.com/latonaio/sap-reservation-document-sql)  
-* [sap-inbound-delivery-sql](https://github.com/latonaio/sap-inbound-delivery-sql)
 * [sap-material-document-sql](https://github.com/latonaio/sap-material-document-sql)
 * [sap-physical-inventory-document-sql](https://github.com/latonaio/sap-physical-inventory-document-sql)
 * [sap-warehouse-resource-sql](https://github.com/latonaio/sap-warehouse-resource-sql)
@@ -141,6 +142,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-api-integrations-business-partner-creates-customer](https://github.com/latonaio/sap-api-integrations-business-partner-creates-customer)
 * [sap-api-integrations-customer-material-creates](https://github.com/latonaio/sap-api-integrations-customer-material-creates)
+* [sap-api-integrations-sales-pricing-creates](https://github.com/latonaio/sap-api-integrations-sales-pricing-creates)
 * [sap-api-integrations-sales-quotation-creates](https://github.com/latonaio/sap-api-integrations-sales-quotation-creates)  
 * [sap-api-integrations-sales-order-creates](https://github.com/latonaio/sap-api-integrations-sales-order-creates)  
 * [sap-api-integrations-sales-contract-creates](https://github.com/latonaio/sap-api-integrations-sales-contract-creates)
@@ -148,6 +150,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-customer-return-creates](https://github.com/latonaio/sap-api-integrations-customer-return-creates) 
 * [sap-api-integrations-billing-document-creates](https://github.com/latonaio/sap-api-integrations-billing-document-creates) 
 * [sap-api-integrations-credit-memo-request-creates](https://github.com/latonaio/sap-api-integrations-credit-memo-request-creates)
+* [sap-api-integrations-debit-memo-request-creates](https://github.com/latonaio/sap-api-integrations-debit-memo-request-creates)
 
 ##### SQL
 
@@ -181,7 +184,8 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-api-integrations-business-partner-reads-supplier](https://github.com/latonaio/sap-api-integrations-business-partner-reads-supplier)  
 * [sap-api-integrations-purchasing-source-list-reads](https://github.com/latonaio/sap-api-integrations-purchasing-source-list-reads)  
-* [sap-api-integrations-purchasing-info-record-reads](https://github.com/latonaio/sap-api-integrations-purchasing-info-record-reads)  
+* [sap-api-integrations-purchasing-info-record-reads](https://github.com/latonaio/sap-api-integrations-purchasing-info-record-reads)
+* [sap-api-integrations-supplier-quotation-reads](https://github.com/latonaio/sap-api-integrations-supplier-quotation-reads)  
 * [sap-api-integrations-purchase-requisition-reads](https://github.com/latonaio/sap-api-integrations-purchase-requisition-reads)
 * [sap-api-integrations-purchase-order-reads](https://github.com/latonaio/sap-api-integrations-purchase-order-reads)  
 * [sap-api-integrations-purchase-contract-reads](https://github.com/latonaio/sap-api-integrations-purchase-contract-reads)
@@ -193,13 +197,15 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-purchasing-info-record-creates](https://github.com/latonaio/sap-api-integrations-purchasing-info-record-creates)  
 * [sap-api-integrations-supplier-quotation-creates](https://github.com/latonaio/sap-api-integrations-supplier-quotation-creates)  
 * [sap-api-integrations-purchase-requisition-creates](https://github.com/latonaio/sap-api-integrations-purchase-requisition-creates)
-
+* [sap-api-integrations-purchase-order-creates](https://github.com/latonaio/sap-api-integrations-purchase-order-creates)  
+* [sap-api-integrations-supplier-invoice-creates](https://github.com/latonaio/sap-api-integrations-supplier-invoice-creates)
 
 ##### SQL  
 
 * [sap-business-partner-sql](https://github.com/latonaio/sap-business-partner-sql)
 * [sap-purchasing-source-list-sql](https://github.com/latonaio/sap-purchasing-source-list-sql)  
 * [sap-purchasing-info-record-sql](https://github.com/latonaio/sap-purchasing-info-record-sql) 
+* [sap-supplier-quotation-sql](https://github.com/latonaio/sap-supplier-quotation-sql) 
 * [sap-purchase-requisition-sql](https://github.com/latonaio/sap-purchase-requisition-sql) 
 * [sap-purchase-order-sql](https://github.com/latonaio/sap-purchase-order-sql)
 * [sap-purchase-contract-sql](https://github.com/latonaio/sap-purchase-contract-sql)
@@ -228,7 +234,6 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### CREATES
 
 * [sap-api-integrations-bill-of-material-creates](https://github.com/latonaio/sap-api-integrations-bill-of-material-creates)  
-* [sap-api-integrations-process-routing-creates](https://github.com/latonaio/sap-api-integrations-process-routing-creates)
 * [sap-api-integrations-production-order-creates](https://github.com/latonaio/sap-api-integrations-production-order-creates)  
 
 ##### SQL 
@@ -255,7 +260,6 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-process-order-confirmation-reads](https://github.com/latonaio/sap-api-integrations-process-order-confirmation-reads)
 
 ##### CREATES
-* [sap-api-integrations-process-order-creates](https://github.com/latonaio/sap-api-integrations-process-order-creates)
 
 ##### SQL
 
@@ -309,6 +313,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-api-integrations-functional-location-creates](https://github.com/latonaio/sap-api-integrations-functional-location-creates)
 * [sap-api-integrations-equipment-master-creates](https://github.com/latonaio/sap-api-integrations-equipment-master-creates)
+* [sap-api-integrations-maintenance-bill-of-material-creates](https://github.com/latonaio/sap-api-integrations-maintenance-bill-of-material-creates)
 * [sap-api-integrations-maintenance-plan-creats](https://github.com/latonaio/sap-api-integrations-maintenance-plan-creates)
 * [sap-api-integrations-maintenance-item-creates](https://github.com/latonaio/sap-api-integrations-maintenance-item-creates)
 * [sap-api-integrations-maintenance-notification-creates](https://github.com/latonaio/sap-api-integrations-maintenance-notification-creates)
