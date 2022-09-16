@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap-sandbox_0912_04.drawio.png)
+![リソース整備状況](documents/sap-sandbox_0916_01.drawio.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -201,7 +201,8 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 * [sap-api-integrations-purchasing-info-record-creates](https://github.com/latonaio/sap-api-integrations-purchasing-info-record-creates)  
 * [sap-api-integrations-supplier-quotation-creates](https://github.com/latonaio/sap-api-integrations-supplier-quotation-creates)  
 * [sap-api-integrations-purchase-requisition-creates](https://github.com/latonaio/sap-api-integrations-purchase-requisition-creates)
-* [sap-api-integrations-purchase-order-creates](https://github.com/latonaio/sap-api-integrations-purchase-order-creates)  
+* [sap-api-integrations-purchase-order-creates](https://github.com/latonaio/sap-api-integrations-purchase-order-creates) 
+* [sap-api-integrations-purchase-scheduling-agreement-creates](https://github.com/latonaio/sap-api-integrations-purchase-scheduling-agreement-creates)
 * [sap-api-integrations-supplier-invoice-creates](https://github.com/latonaio/sap-api-integrations-supplier-invoice-creates)
 
 ##### SQL  
@@ -238,6 +239,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### CREATES
 
 * [sap-api-integrations-bill-of-material-creates](https://github.com/latonaio/sap-api-integrations-bill-of-material-creates)  
+* [sap-api-integrations-planned-independent-requirement-creates](https://github.com/latonaio/sap-api-integrations-planned-independent-requirement-creates)  
 * [sap-api-integrations-production-order-creates](https://github.com/latonaio/sap-api-integrations-production-order-creates)  
 
 ##### SQL 
